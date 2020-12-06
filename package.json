@@ -1,0 +1,22 @@
+{
+  "name": "gulp-babel-html-inline",
+  "version": "0.0.1",
+  "description": "babel inline javascript code in html with babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "babel",
+    "inline",
+    "html",
+    "javascript"
+  ],
+  "author": "mythfish@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2"
+  }
+}
